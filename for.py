@@ -1,8 +1,10 @@
+#defininte loop with strings
+
 for i in [5, 3, 5, 7,8, 9] :
     print(i)
-print('Done!Done!')
+print('Done!!')
 
-friends= ['Joseph', 'Glenn', 'Sally']
+friends = ['Joseph', 'Glenn', 'Sally']
 for friend in friends :
     print('Happy New Year:', friend)
-print('DOne!DOne!')
+print('Done!!')

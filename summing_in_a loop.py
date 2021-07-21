@@ -5,4 +5,4 @@ for thing in [43444, 665, 3, 5, 564, 654, 764, 21 ,55, 3, 5, 43, 11, 88, 997,  5
     print(zork, thing)
 print('After', zork)
 
-print('ALL DONE! ALL DONE!')
+print('ALL DONE!')

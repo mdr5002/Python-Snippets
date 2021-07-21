@@ -3,7 +3,7 @@ def greet(lang):
         print('Hola')
     if lang == 'fr':
         print('Bonjour')
-    else:
+    else :
         print('Hello')
 
 greet('es')

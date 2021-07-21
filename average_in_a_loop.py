@@ -1,3 +1,5 @@
+#finding average ina loop
+
 count = 0
 sum = 0
 print('Before', count, sum)
