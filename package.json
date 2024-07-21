@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@localsmart/xvba-cli": "^1.0.2",
+    "@types/office-js": "^1.0.405",
+    "@typescript-eslint/eslint-plugin": "^7.16.1",
+    "@typescript-eslint/parser": "^7.16.1",
+    "eslint": "^8.57.0"
+  },
+  "dependencies": {
+    "@azure/identity": "^4.4.0",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "axios": "^1.7.2"
+  },
+  "name": "python-snippets",
+  "version": "1.0.0",
+  "description": "This repository is collection of Important Python scripts from the Coursera Course: Python for Everybody provided by the Unversity of Michigan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
