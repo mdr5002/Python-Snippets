@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Apps2",
+			"path": "../../Apps2"
+		}
+	],
+	"settings": {
+		"dataWrangler.debug": true
+	}
+}

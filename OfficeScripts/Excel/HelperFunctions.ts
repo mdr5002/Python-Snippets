@@ -132,7 +132,3 @@ function autoFillColumn(
     .autoFill(endCell, ExcelScript.AutoFillType.fillDefault);
 }
 
-/** Get all the column labels as an array. */
-function getColLabels(sheet: ExcelScript.Worksheet) {
-  return sheet.getUsedRange().getRow(0).getValues()[0];
-}
